@@ -83,7 +83,7 @@ Les tests ont été effectués avec :
 Postman
 Navigateur
 📎 Lien GitHub
-https://github.com/VOTRE_USERNAME/blog-api
+https://github.com/rohan-cleave/INF222_Ec1_Taf1.git
 👨‍💻 Auteur
 Nom : [AMBANG TIBA ROHAN CLEAVE]
 Filière : [INFORMATIQUE]
